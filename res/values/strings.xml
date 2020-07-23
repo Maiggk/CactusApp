@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cactus Queretaro</string>
+    <string name="action_settings">Settings</string>
+    <string name="cadena_buscar">Buscar</string>
+    <string name="cadena_consulta">Consultar</string>
+    <string name="cadena_peligro">Especies en peligro</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="acerca_de_contenido">
+        	Autor:Miguel Angel Alvarez Vargas
+            Version: Beta    
+            Contacto: miguelangelalvarez3@gmail.com</string>
+    <string name="investigador">Investigador:</string>
+
+</resources>
